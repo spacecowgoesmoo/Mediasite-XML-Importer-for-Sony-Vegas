@@ -2,6 +2,7 @@
 
 Imports a mediasite Publish-To-Go slideshow into a Sony Vegas video timeline
 
+## Instructions
 1. Download the JS file, based on which version of Mediasite you have.
 2. Grab a Mediasite presentation by downloading the Publish-To-Go .zip from the web interface. (important)
 3. Unzip the Mediasite presentation, put the folder wherever you want.
