@@ -1,4 +1,4 @@
-# Mediasite-XML-Importer-for-Sony-Vegas
+# Mediasite XML Importer for Sony Vegas
 
 Imports a mediasite Publish-To-Go slideshow into a Sony Vegas video timeline
 
