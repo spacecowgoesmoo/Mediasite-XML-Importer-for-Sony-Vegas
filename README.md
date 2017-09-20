@@ -10,6 +10,6 @@ Imports a mediasite Publish-To-Go slideshow into a Sony Vegas video timeline
 6. Done!
 
 ## Notes
-- If you need a script for a different version of Mediasite, just let me know. It's never taken more than a few minutes.
+- If you need a script for a different version of Mediasite, just let me know. It usually only takes a few minutes.
 - This was created in 2014, and in 2016 Mediasite added better video download options. Check with them as well!
 - This has only been tested with Sony Vegas 12.
